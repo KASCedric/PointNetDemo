@@ -31,6 +31,6 @@ Confusion matrix:
 ![Confusion matrix](misc/matrix.png)
 
 ### Downsampled data
-Screenshot of the downsampled data before and after the prediction using `sample-model.pth`:
+Screenshot of `ds-data.ply` before and after the prediction using `sample-model.pth`:
 ![Confusion matrix](misc/prediction.png)
 
